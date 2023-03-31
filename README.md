@@ -30,7 +30,7 @@
 
 
 ## Site do escritório onde trabalho
-  <a href="https://github.com/mIINguta/github-readme-stats">
+  <a href="https://github.com/mIINguta/projeto-site-mmac">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mIINguta&repo=projeto-site-mmac&theme=dark" />
 </a>
 
