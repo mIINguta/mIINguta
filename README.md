@@ -23,10 +23,10 @@
 
 ## Stats
   
-[![Gustavo Minguta GitHub stats](https://github-readme-stats.vercel.app/api?username=mIINguta&show_icons=true&theme=dark)](https://github.com/mIINguta/github-readme-stats) 
+ <div>[![Gustavo Minguta GitHub stats](https://github-readme-stats.vercel.app/api?username=mIINguta&show_icons=true&theme=dark)](https://github.com/mIINguta/github-readme-stats) </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mIINguta&layout=compact&theme=dark)](https://github.com/mIINguta/github-readme-stats)
+<div style="width: 100px";>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mIINguta&layout=compact&theme=dark)](https://github.com/mIINguta/github-readme-stats)</div>
 
 
 ## Meu Portfólio
