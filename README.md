@@ -1,7 +1,7 @@
 ## Oi, meu nome é Gustavo Minguta! 
 
 🔭 Hoje trabalho com front end <br>
-🌱 Atualmente estudo JavaScript <br>
+🌱 Atualmente estudo React <br>
 😄 Pronouns: ele/dele <br>
 
 <a href="https://www.instagram.com/gustavominguta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
