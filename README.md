@@ -1,7 +1,7 @@
 ## Oi, meu nome é Gustavo Minguta! 
 
 🔭 Hoje trabalho com front end <br>
-🌱 Atualmente estudo React <br>
+🌱 Atualmente estudo TypeScript <br>
 😄 Pronouns: ele/dele <br>
 
 <a href="https://www.instagram.com/gustavominguta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -14,6 +14,7 @@
 <img width= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width = 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width = 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <img width = 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
