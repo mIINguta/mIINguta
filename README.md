@@ -39,7 +39,7 @@
 
 ## Meu Portfólio
   <a href="https://github.com/mIINguta/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mIINguta&repo=portfolioo&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mIINguta&repo=portfolio&theme=dark" />
 </a>
 
 
