@@ -22,6 +22,7 @@
 <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img width= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img width= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /> 
           
           
           
@@ -35,6 +36,7 @@
 ## Stats
   
 [![Gustavo Minguta GitHub stats](https://github-readme-stats.vercel.app/api?username=mIINguta&show_icons=true&theme=dark)](https://github.com/mIINguta/github-readme-stats)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mIINguta&layout=compact&theme=dark)](https://github.com/mIINguta/github-readme-stats)
